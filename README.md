@@ -1,9 +1,9 @@
 # insertion-heapsort-comp
 
-##Codigo está modulado, para compilar com GCC:
+##Code is modulated, to compile with GCC:
 
     gcc -o main *.c -lm
 
-##Para executar:
+##To execute:
 
     ./main
